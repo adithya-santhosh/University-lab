@@ -1,1 +1,1 @@
-Resolved content goes hereSome new change
+Resolved content goes here
