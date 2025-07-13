@@ -1,1 +1,1 @@
-Line from user1
+Coflicting line from user1
